@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="">
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krikrak&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krikrak&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
